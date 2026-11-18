@@ -40,7 +40,7 @@
     "framework-arduino-lpc8xx": {
       "type": "framework",
       "optional": true,
-      "version": "https://github.com/FastLED/framework-arduino-lpc8xx.git#50d76e0d63c2d2a2b365b29de47100d93c530c83"
+      "version": "https://github.com/FastLED/framework-arduino-lpc8xx.git#547b5a7053f60c59bbd86e9c6796bebae07c8241"
     },
     "tool-openocd": {
       "type": "debugger",
